@@ -1,4 +1,4 @@
-FROM maxamillion/fedora:24
+FROM fedora:24
 
 MAINTAINER Adam Miller <maxamillion@fedoraproject.org>
 
